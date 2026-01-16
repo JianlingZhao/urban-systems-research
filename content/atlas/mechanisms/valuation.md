@@ -1,5 +1,7 @@
 # 价格、价值判断
 # Valuation
+This mechanism explains how value is assessed, negotiated, and adjusted
+within urban's food supply system.
 
 This mechanism explains how value is assessed,
 communicated, and adjusted in the system.
