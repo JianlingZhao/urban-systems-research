@@ -1,10 +1,10 @@
 # 价格、价值判断
 # Valuation
-This mechanism explains how value is assessed, negotiated, and adjusted
-within urban's food supply system.
+This mechanism explains how value is assessed, negotiated, and adjusted within urban's food supply system.
 
-This mechanism explains how value is assessed,
-communicated, and adjusted in the system.
+valuation is understood here as a distributed and context-sensitive process, through which multiple dimensions of uncertainty, quality, timing, and trust are compressed into exchangeable terms.
+
+
 
 ## 1. Price as a coordination signal
 价格不是清算工具，而是一个“方向性信号”。
